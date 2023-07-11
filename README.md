@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br/>
 <div align="center">
-  <a href="https://github.com/siddhesh-desai/CollegeShip">
+  <a href="https://github.com/samarthNV/CollegeShip">
     <img src="images/CollegeShip-logo.png" alt="Logo">
   </a>
     <br>
@@ -21,13 +21,13 @@
     CollegeShip is an offline portal for application for scholarships for the students in rural areas.
     <br />
     <br>
-    <a href="https://github.com/siddhesh-desai/CollegeShip"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/samarthNV/CollegeShip"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/siddhesh-desai/CollegeShip">View Demo</a>
+    <a href="https://github.com/samarthNV/CollegeShip">View Demo</a>
     ·
-    <a href="https://github.com/siddhesh-desai/CollegeShip/issues">Report Bug</a>
+    <a href="https://github.com/samarthNV/CollegeShip/issues">Report Bug</a>
     ·
-    <a href="https://github.com/siddhesh-desai/CollegeShip/issues">Request Feature</a>
+    <a href="https://github.com/samarthNV/CollegeShip/issues">Request Feature</a>
   </p>
 </div>
 
@@ -79,7 +79,7 @@ You need to setup you MongoDB Clusters priorly and then follow the steps.
 1. Clone the repository
 
    ```sh
-   git clone https://github.com/siddhesh-desai/CollegeShip.git
+   git clone https://github.com/samarthNV/CollegeShip.git
    ```
 
 2. Install the dependencies:
@@ -112,7 +112,7 @@ You need to setup you MongoDB Clusters priorly and then follow the steps.
 - [x] Offline System
 - [x] Optical Character Recognition
 
-See the [open issues](https://github.com/siddhesh-desai/CollegeShip/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/samarthNV/CollegeShip/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,9 +137,9 @@ Don't forget to give the project a star! Thanks again!
 
 ## 📧 Contact
 
-Siddhesh Desai - [@thesiddheshdesai](https://www.linkedin.com/in/thesiddheshdesai/) - siddheshdesai777@gmail.com
+Samarth Bura - [@samarth_bura](https://www.linkedin.com/in/samarth-bura-25717622a/) - samarthvbura@gmail.com
 
-Project Link: [https://github.com/siddhesh-desai/CollegeShip](https://github.com/siddhesh-desai/CollegeShip)
+Project Link: [https://github.com/samarthNV/CollegeShip](https://github.com/samarthNV/CollegeShip)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -154,18 +154,18 @@ Thanks go to these wonderful people:
 - [Samarth Bura](https://github.com/samarthNV/)
 - [Tejaswini Wanare](https://github.com/Tejaswini-9703/)
 
-[contributors-shield]: https://img.shields.io/github/contributors/siddhesh-desai/CollegeShip.svg?style=for-the-badge
-[contributors-url]: https://github.com/siddhesh-desai/CollegeShip/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/siddhesh-desai/CollegeShip.svg?style=for-the-badge
-[forks-url]: https://github.com/siddhesh-desai/CollegeShip/network/members
-[stars-shield]: https://img.shields.io/github/stars/siddhesh-desai/CollegeShip.svg?style=for-the-badge
-[stars-url]: https://github.com/siddhesh-desai/CollegeShip/stargazers
-[issues-shield]: https://img.shields.io/github/issues/siddhesh-desai/CollegeShip.svg?style=for-the-badge
-[issues-url]: https://github.com/siddhesh-desai/CollegeShip/issues
-[license-shield]: https://img.shields.io/github/license/siddhesh-desai/CollegeShip.svg?style=for-the-badge
-[license-url]: https://github.com/siddhesh-desai/CollegeShip/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/samarthNV/CollegeShip.svg?style=for-the-badge
+[contributors-url]: https://github.com/samarthNV/CollegeShip/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/samarthNV/CollegeShip.svg?style=for-the-badge
+[forks-url]: https://github.com/samarthNV/CollegeShip/network/members
+[stars-shield]: https://img.shields.io/github/stars/samarthNV/CollegeShip.svg?style=for-the-badge
+[stars-url]: https://github.com/samarthNV/CollegeShip/stargazers
+[issues-shield]: https://img.shields.io/github/issues/samarthNV/CollegeShip.svg?style=for-the-badge
+[issues-url]: https://github.com/samarthNV/CollegeShip/issues
+[license-shield]: https://img.shields.io/github/license/samarthNV/CollegeShip.svg?style=for-the-badge
+[license-url]: https://github.com/samarthNV/CollegeShip/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/thesiddheshdesai
+[linkedin-url]: https://www.linkedin.com/in/samarth-bura-25717622a/
 [html]: https://img.shields.io/badge/HTML-20232A?style=for-the-badge&logo=html5&logoColor=61DAFB
 [html-url]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://img.shields.io/badge/Css-000000?style=for-the-badge&logo=css3&logoColor=white
